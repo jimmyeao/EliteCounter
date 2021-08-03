@@ -9,6 +9,7 @@ https://amzn.to/3xgeEa4 (max7219 display)
 
 
 Connect as follows:
+
   D1      max7219
   
   3.3v  -> VCC
