@@ -1,6 +1,13 @@
 # EliteCounter
 Elite stats counter, stats from EDSM displayed on a max7219 display
 Utilises an ESP8266 (I use a Wemos D1 Mini)
+Parts I used:
+
+https://amzn.to/3frlvHC (Wemso D1 clone)
+
+https://amzn.to/3xgeEa4 (max7219 display)
+
+
 Connect as follows:
   D1      max7219
   
