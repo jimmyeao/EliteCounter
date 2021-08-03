@@ -18,8 +18,12 @@ Connect as follows:
   Edit the ino file to enter your WIFI and EDSM details
   
   Requires the following libraries
+  
     ESP8266WiFi
+    
     WiFiClientSecure
+    
     ArduinoJson (Version 5.x)
+    
   
   To Come - 3d Printed case..
