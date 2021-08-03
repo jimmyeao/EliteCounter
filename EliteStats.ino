@@ -13,7 +13,7 @@ const char* CMDR = "YOUR_COMMANDER_NAME";
 const char* ssid     = "YOUR_SSID";         // The SSID (name) of the Wi-Fi network you want to connect to
 const char* password = "SSID_PASSWORD";     // The password of the Wi-Fi network
 
-// comment out any stats you dont want!
+// change to false if you dont want to see a certain stat!
 #define ShowExplorer true
 #define ShowCombat true
 #define ShowTrade true
