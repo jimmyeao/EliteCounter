@@ -40,4 +40,4 @@ Connect as follows:
   
   **#define DELAY 500 //the delay between changing stats**
   
-  To Come - 3d Printed case..
+3d Printed case.. https://www.thingiverse.com/thing:4923787
