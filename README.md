@@ -25,5 +25,12 @@ Connect as follows:
     
     ArduinoJson (Version 5.x)
     
-  If you would lie a pause after each stat, change line the **#define DELAY 000 //the delay between changing stats** to **#define DELAY 500 //the delay between changing stats**
+  If you would lie a pause after each stat, change the line 
+  
+  **#define DELAY 000 //the delay between changing stats** 
+  
+  to 
+  
+  **#define DELAY 500 //the delay between changing stats**
+  
   To Come - 3d Printed case..
