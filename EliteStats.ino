@@ -1,15 +1,15 @@
-#include <ESP8266WiFi.h>        // Include the Wi-Fi library
+s#include <ESP8266WiFi.h>        // Include the Wi-Fi library
 #include <WiFiClientSecure.h>
 #include <ArduinoJson.h>
 
 const char *host = "www.edsm.net";
 //---------------------------------------------------------------------------------------------------------------------
 //you need to change these!!
-const char* EDSMAPI = "3251e2e586619aef62148a47ed5f4ef57b0f5ee5";
-const char* CMDR = "jimmyeao";
+const char* EDSMAPI = "YourEDSMAPIKEY";
+const char* CMDR = "YourCMDRname";
 
-const char* ssid     = "BTHub5-C6PG2";         // The SSID (name) of the Wi-Fi network you want to connect to
-const char* password = "Bigredunicorn!23";     // The password of the Wi-Fi network
+const char* ssid     = "YourSSID";         // The SSID (name) of the Wi-Fi network you want to connect to
+const char* password = "YourPassword";     // The password of the Wi-Fi network
 // comment out any stats you dont want!
 #define ShowExplorer true
 #define ShowCombat true
