@@ -1,4 +1,6 @@
 # EliteCounter
+![IMG_4245](https://user-images.githubusercontent.com/5197831/128147717-f6f45ee9-3ea0-4c81-be28-ee00be7249c2.jpg)
+
 Elite stats counter, stats from EDSM displayed on a max7219 display
 Utilises an ESP8266 (I use a Wemos D1 Mini)
 A lot of the code was re-used from "NicoProps YouTube Sub Counter" - Thanks to Nico for the code, it really gave me a leg up!
@@ -35,7 +37,7 @@ Connect as follows:
     
     ArduinoJson (Version 5.x)
     
-  If you would lie a pause after each stat, change the line 
+  If you would like a pause after each stat, change the line 
   
   **#define DELAY 000 //the delay between changing stats** 
   
